@@ -1,49 +1,40 @@
-[
-  {
-    "id": "1",
-    "categories": {
-      "Mark-Up": [
-        {
-          "name": "Ridgeview School",
-          "url": "https://ridgeview-school.netlify.app/",
-          "date": "2025-02-04",
-          "category": "Mark-Up",
-          "id": "1"
-        },
-        {
-          "name": "Game Designer",
-          "url": "https://game-designerr.netlify.app/",
-          "date": "2025-02-23",
-          "category": "Mark-Up",
-          "id": "2"
-        }
-      ],
-      "Vanilla JS": [
-        {
-          "name": "Train Staiton",
-          "url": "https://step-railway.netlify.app/",
-          "date": "2025-05-17",
-          "category": "Vanilla JS",
-          "id": "1"
-        },
-        {
-          "name": "Online Restaurant",
-          "url": "https://step-ordering.netlify.app/",
-          "date": "2025-05-01",
-          "category": "Vanilla JS",
-          "id": "2"
-        }
-      ],
-      "Angular": [
-        {
-          "name": "Online Shop",
-          "url": "https://steponline-shop.netlify.app/",
-          "date": "2025-06-20",
-          "category": "Angular",
-          "id": "1"
-        }
-      ],
-      "React": []
+{
+  "categories": ["Mark Up", "Vanilla JS", "Angular", "React"],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Ridgeview School",
+      "url": "https://ridgeview-school.netlify.app/",
+      "date": "2025-02-04",
+      "category": "Mark-Up"
+    },
+    {
+      "id": 2,
+      "name": "Game Designer",
+      "url": "https://game-designerr.netlify.app/",
+      "date": "2025-02-23",
+      "category": "Mark-Up"
+    },
+    {
+      "id": 3,
+      "name": "Train Station",
+      "url": "https://step-railway.netlify.app/",
+      "date": "2025-05-17",
+      "category": "Vanilla JS"
+    },
+    {
+      "id": 4,
+      "name": "Online Restaurant",
+      "url": "https://step-ordering.netlify.app/",
+      "date": "2025-05-01",
+      "category": "Vanilla JS"
+    },
+    {
+      "id": 5,
+      "name": "Online Shop",
+      "url": "https://steponline-shop.netlify.app/",
+      "date": "2025-06-20",
+      "category": "Angular"
     }
-  }
-]
+  ]
+}
