@@ -6,35 +6,40 @@
       "name": "Ridgeview School",
       "url": "https://ridgeview-school.netlify.app/",
       "date": "2025-02-04",
-      "category": "Mark-Up"
+      "category": "Mark-Up",
+      "description":"Ridgeview School project is inspired by WIX Template. I built it for my final exam for HTML & CSS"
     },
     {
       "id": 2,
       "name": "Game Designer",
       "url": "https://game-designerr.netlify.app/",
       "date": "2025-02-23",
-      "category": "Mark-Up"
+      "category": "Mark-Up",
+      "description":"This game designer portfolio was built during jobless hours and did it for entertainment:)"
     },
     {
       "id": 3,
       "name": "Train Station",
       "url": "https://step-railway.netlify.app/",
       "date": "2025-05-17",
-      "category": "Vanilla JS"
+      "category": "Vanilla JS",
+      "description":"This train station website was built for the final exam for JS. I was working on it a long time and always was looking for something to improve."
     },
     {
       "id": 4,
       "name": "Online Restaurant",
       "url": "https://step-ordering.netlify.app/",
       "date": "2025-05-01",
-      "category": "Vanilla JS"
+      "category": "Vanilla JS",
+      "description":"This Restaurant was also built during jobless hours for entertainment."
     },
     {
       "id": 5,
       "name": "Online Shop",
       "url": "https://steponline-shop.netlify.app/",
       "date": "2025-06-20",
-      "category": "Angular"
+      "category": "Angular",
+      "description":"This project was for the final exam of Angular, spent a lot of time and energy but was worth every bit."
     }
   ]
 }
