@@ -7,7 +7,7 @@
       "url": "https://ridgeview-school.netlify.app/",
       "date": "2025-02-04",
       "category": "Mark-Up",
-      "description": "Ridgeview School project is inspired by WIX Template. I built it for my final exam for HTML & CSS"
+      "description": "The Ridgeview School project is inspired by a WIX template and built as a fully responsive markup project that showcases clean UI/UX design and modern web-layout techniques."
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "url": "https://game-designerr.netlify.app/",
       "date": "2025-02-23",
       "category": "Mark-Up",
-      "description": "This game designer portfolio was built during jobless hours and did it for entertainment:)"
+      "description": "This game-designer portfolio was inspired by a WIX layout and built as a fully responsive project showcasing clean UI/UX design and modern web-layout techniques."
     },
     {
       "id": 3,
@@ -23,7 +23,7 @@
       "url": "https://step-railway.netlify.app/",
       "date": "2025-05-17",
       "category": "Vanilla JS",
-      "description": "This train station website was built for the final exam for JS. I was working on it a long time and always was looking for something to improve."
+      "description": "I built this train-station website for my JavaScript final exam. It pushed me to level up my JS fundamentals and get comfortable working with APIs and data visualization. The project gave me hands-on experience turning raw data into something clear, usable, and interactive."
     },
     {
       "id": 4,
@@ -31,7 +31,7 @@
       "url": "https://step-ordering.netlify.app/",
       "date": "2025-05-01",
       "category": "Vanilla JS",
-      "description": "This Restaurant was also built during jobless hours for entertainment."
+      "description": "The site includes essential CRUD functionality along with clear data visualizations to make the information easy to interpret."
     },
     {
       "id": 5,
@@ -39,7 +39,7 @@
       "url": "https://steponline-shop.netlify.app/",
       "date": "2025-06-20",
       "category": "Angular",
-      "description": "This project was for the final exam of Angular, spent a lot of time and energy but was worth every bit."
+      "description": "This project was my Angular final exam, and it forced me to build a real foundation instead of just clicking through tutorials. Working on it pushed me to actually use Angular's core features properly, and it's been the base I've been leveling up from ever since."
     },
     {
       "id": 6,
@@ -47,7 +47,7 @@
       "url": "https://solarsystemkvara.netlify.app/",
       "date": "2025-11-02",
       "category": "Vanilla JS",
-      "description": "This Project was built with Vanilla JS, Vite and Three.js. It represents the Solar System with basic information about the planets."
+      "description": "This project uses Vanilla JS, Vite, and Three.js to render a simplified Solar System with essential info for each planet."
     }
   ]
 }
