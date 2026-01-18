@@ -48,6 +48,14 @@
       "date": "2025-11-02",
       "category": "Vanilla JS",
       "description": "This project uses Vanilla JS, Vite, and Three.js to render a simplified Solar System with essential info for each planet."
+    },
+    {
+      "id": 7,
+      "name": "Game Reviews WIX Template",
+      "url": "game-review-markup.netlify.app",
+      "date": "2025-02-02",
+      "category": "Mark-Up",
+      "description": "A game review website recreated from a WIX template design, fully coded from scratch using semantic HTML and CSS with responsive layout and clean UI structure."
     }
   ]
 }
