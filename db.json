@@ -7,6 +7,7 @@
       "url": "https://ridgeview-school.netlify.app/",
       "date": "2025-02-04",
       "category": "Mark-Up",
+      "photo": "https://drive.google.com/uc?export=view&id=1NmUm4jptRZGnxwPVyy8JwWwHn08TPLqG/view?usp=drive_link",
       "description": "The Ridgeview School project is inspired by a WIX template and built as a fully responsive markup project that showcases clean UI/UX design and modern web-layout techniques."
     },
     {
@@ -15,7 +16,7 @@
       "url": "https://game-designerr.netlify.app/",
       "date": "2025-02-23",
       "category": "Mark-Up",
-      "photo": "https://drive.google.com/file/d/1zIGfmmx958IEzUHIL_QRaNezB0uTY5wN/view?usp=drive_link",
+      "photo": "https://drive.google.com/uc?export=view&id=1zIGfmmx958IEzUHIL_QRaNezB0uTY5wN/view?usp=drive_link",
       "description": "This game-designer portfolio was inspired by a WIX layout and built as a fully responsive project showcasing clean UI/UX design and modern web-layout techniques."
     },
     {
@@ -24,6 +25,7 @@
       "url": "https://step-railway.netlify.app/",
       "date": "2025-05-17",
       "category": "Vanilla JS",
+      "photo":"https://drive.google.com/uc?export=view&id=15gEAR3a-T2aZwFQY7kvDkqoAAOel3P90/view?usp=drive_link",
       "description": "I built this train-station website for my JavaScript final exam. It pushed me to level up my JS fundamentals and get comfortable working with APIs and data visualization. The project gave me hands-on experience turning raw data into something clear, usable, and interactive."
     },
     {
@@ -32,6 +34,7 @@
       "url": "https://step-ordering.netlify.app/",
       "date": "2025-05-01",
       "category": "Vanilla JS",
+      "photo":"https://drive.google.com/uc?export=view&id=1TWu9MdVRHjoGE9lGAuGQLaMzhq5DNNkA/view?usp=drive_link",
       "description": "The site includes essential CRUD functionality along with clear data visualizations to make the information easy to interpret."
     },
     {
@@ -40,6 +43,7 @@
       "url": "https://steponline-shop.netlify.app/",
       "date": "2025-06-20",
       "category": "Angular",
+      "photo":"https://drive.google.com/uc?export=view&id=18OrOPY1IeqGi4DoKzZmwrrrcdCnsDw_2/view?usp=drive_link",
       "description": "This project was my Angular final exam, and it forced me to build a real foundation instead of just clicking through tutorials. Working on it pushed me to actually use Angular's core features properly, and it's been the base I've been leveling up from ever since."
     },
     {
@@ -48,6 +52,7 @@
       "url": "https://solarsystemkvara.netlify.app/",
       "date": "2025-11-02",
       "category": "Vanilla JS",
+      "photo":"https://drive.google.com/uc?export=view&id=1J-DfypGcX8jG2RNCxDDLRoDRyt7FOIBy/view?usp=drive_link",
       "description": "This project uses Vanilla JS, Vite, and Three.js to render a simplified Solar System with essential info for each planet."
     },
     {
@@ -56,6 +61,7 @@
       "url": "https://game-review-markup.netlify.app",
       "date": "2025-02-02",
       "category": "Mark-Up",
+      "photo":"https://drive.google.com/uc?export=view&id=1NmUm4jptRZGnxwPVyy8JwWwHn08TPLqG/view?usp=drive_link",
       "description": "A game review website recreated from a WIX template design, fully coded from scratch using semantic HTML and CSS with responsive layout and clean UI structure."
     }
   ]
